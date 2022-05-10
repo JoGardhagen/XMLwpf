@@ -1,0 +1,16 @@
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\bin\Debug\WpfXMLDataProvider.exe.config
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\bin\Debug\WpfXMLDataProvider.exe
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\bin\Debug\WpfXMLDataProvider.pdb
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\obj\Debug\WpfXMLDataProvider.csproj.AssemblyReference.cache
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\obj\Debug\WpfXMLDataProvider.csproj.SuggestedBindingRedirects.cache
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\obj\Debug\MainWindow.g.cs
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\obj\Debug\App.g.cs
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\obj\Debug\WpfXMLDataProvider_MarkupCompile.cache
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\obj\Debug\WpfXMLDataProvider_MarkupCompile.lref
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\obj\Debug\MainWindow.baml
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\obj\Debug\WpfXMLDataProvider.g.resources
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\obj\Debug\WpfXMLDataProvider.Properties.Resources.resources
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\obj\Debug\WpfXMLDataProvider.csproj.GenerateResource.cache
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\obj\Debug\WpfXMLDataProvider.csproj.CoreCompileInputs.cache
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\obj\Debug\WpfXMLDataProvider.exe
+D:\CsharpRepo\WpfXMLDataProvider\WpfXMLDataProvider\obj\Debug\WpfXMLDataProvider.pdb

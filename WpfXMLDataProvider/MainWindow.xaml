@@ -25,6 +25,11 @@
         <!--display IDs Only-->
         <ListBox Grid.Column="1" Background="Orange" FontSize="20" ItemsSource="{Binding Source={StaticResource XMLDP},XPath=*/*}" DisplayMemberPath="@ID"/>
         <!--PhoneNumbers-->
-        <ListBox Grid.Row="1" Grid.Column="1" Background="LightGreen" FontSize="20" ItemsSource="{Binding Source={StaticResource XMLDP},XPath=ROOT/CONTACT/CONTACTINFO/*}"/>
+        <ListBox Grid.Row="1" Grid.Column="1" Background="LightGreen" FontSize="20">
+            <ListBox.ItemsSource>
+                <Binding Source="{StaticResource XMLDP}"
+                         XPath="*/*/*/*[@TYPE='CELL']"/>
+            </ListBox.ItemsSource>
+        </ListBox>
     </Grid>
 </Window>
